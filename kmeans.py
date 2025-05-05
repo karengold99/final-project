@@ -5,6 +5,7 @@ epsilon = 0.0001
 K_ERROR_MESSAGE = "Invalid number of clusters!"
 ITER_ERROR_MESSAGE = "Invalid maximum iteration!"
 GENERAL_ERROR = "An Error Has Occurred"
+"eyyyyy"
 
 def main():
     args = sys.argv
