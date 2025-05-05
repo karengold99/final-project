@@ -1,0 +1,1 @@
+gcc -ansi -Wall -Wextra -Werror -pedantic-errors -g -o test_symnmf matrix.c array_2d.c datapoint_file.c symnmflib.c test_symnmf.c -lm
